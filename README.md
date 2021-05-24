@@ -31,7 +31,7 @@ Enjoy :smile:
 + Template: https://colorlib.com
 + Photos: https://unsplash.com/
 # Contact
- <b>Linkedin</b>: [Van Cao](https://www.linkedin.com/in/preethig-4848/)
+ <b>Linkedin</b>: [Preethi G](https://www.linkedin.com/in/preethig-4848/)
  <br/>
  <b>Email</b>: preethi4848@gmail.com
 
